@@ -58,11 +58,11 @@ $config['webpassword'] = 'MakeUpPassword';
 // );
 
 $config['Suren'] = array(
-    'fromNumber' => '94766442970',
-    'nick' => "sureng",
-    'waPassword' => "0SypSKxHBTmCnvbmclAbyGUO82k=",
-    'email' => 'testemail@gmail.com',
-    'emailPassword' => 'gmailpassword'
+    'fromNumber' => '',
+    'nick' => "",
+    'waPassword' => "",
+    'email' => '',
+    'emailPassword' => ''
 );
 
 /**
